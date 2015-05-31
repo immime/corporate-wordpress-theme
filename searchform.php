@@ -1,0 +1,10 @@
+<?php
+/**
+ * Displays the search form of the theme.
+ *
+ */
+?>
+<form role="search" action="<?php echo esc_url( home_url( '/' ) ); ?>" id="search-form" class="searchform clearfix" method="get">
+<input required="" aria-required="true" type="search" placeholder="Search &hellip;" class="s field" name="s" value="<?php echo esc_attr( get_search_query() ); ?>">
+<button type="submit" id="search-submit" class="submit"><i class="fa fa-search"></i></button>
+</form><!-- .searchform -->
