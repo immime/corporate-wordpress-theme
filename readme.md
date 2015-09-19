@@ -4,15 +4,15 @@ A product based business wordpress theme.
 - - -
 
 
->**Documentation is coming soon**
-
-
 
 - - -
 ## Requirements
 - WordPress v4.1+ (latest will be better)
 
 
+
+## TODO
+* Documentations
 
 
 **Created By: *Ank91* **
