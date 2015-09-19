@@ -1,0 +1,13 @@
+# https://github.com/github/gitignore
+# https://www.gitignore.io/
+
+# phpstorm
+.idea
+
+# logs
+*.log
+
+
+# os generated files
+.DS_Store
+Thumbs.db
